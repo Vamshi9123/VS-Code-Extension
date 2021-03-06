@@ -1,0 +1,1 @@
+Sample test where it redirects to a google search page
